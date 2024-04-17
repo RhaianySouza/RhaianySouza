@@ -50,8 +50,8 @@ I am a professional passionate about IT, with solid training in the area and an 
 
 <hr/> 
 <h3>Projetos em C</h3>
-<a href="https://github.com/RhaianySouza/Calculadora-em-C">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora-em-C&cache_seconds=86400&theme=moltack"/>
+<a href="https://github.com/RhaianySouza/Programacao-em-C-Calculador">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-C-Calculadora&cache_seconds=86400&theme=moltack"/>
 </a>
 <hr/>
 
