@@ -53,5 +53,29 @@ I am a professional passionate about IT, with solid training in the area and an 
 <a href="https://github.com/RhaianySouza/Calculadora-em-C">
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora-em-C&cache_seconds=86400&theme=moltack"/>
 </a>
+<hr/>
+
+<h3>Projetos em HTML, CSS e Javascript</h3>
+<a href="https://github.com/RhaianySouza/Calculadora">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora&cache_seconds=86400&theme=moltack"/>
+</a>
+<a href="https://github.com/RhaianySouza/widget">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=widget&cache_seconds=86400&theme=moltack"/>
+</a>
+<a href="https://github.com/RhaianySouza/100dayscss.com">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=100dayscss.com&cache_seconds=86400&theme=moltack"/>
+</a>
+<hr/>
+
+<h3>Projetos em Java</h3>
+<a href="https://github.com/RhaianySouza/Sistema-de-Gerenciamento-de-Arquivos-em-JAVA">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Sistema-de-Gerenciamento-de-Arquivos-em-JAVA&cache_seconds=86400&theme=moltack"/>
+</a>
+
+<h3>Projetos em Python</h3>
+<a href="https://github.com/RhaianySouza/Gerenciamento_De_Banco_De_Dados-Python_MySQL">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Gerenciamento_De_Banco_De_Dados-Python_MySQL&cache_seconds=86400&theme=moltack"/>
+</a>
+
 <div> 
 </div>
