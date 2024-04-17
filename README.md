@@ -47,15 +47,11 @@ I am a professional passionate about IT, with solid training in the area and an 
     <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&langs_count=16&theme=moltack"/>
   </a>
 </div>
-<hr/>
 
 <hr/> 
-<a href="https://github.com/RhaianySouza/Calculadora">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora&cache_seconds=86400&theme=moltack"/>
+<h3>Projetos em C</h3>
+<a href="https://github.com/RhaianySouza/Calculadora-em-C">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora-em-C&cache_seconds=86400&theme=moltack"/>
 </a>
-<a href="https://github.com/RhaianySouza/Gerenciamento_De_Banco_De_Dados-Python_MySQL">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Gerenciamento_De_Banco_De_Dados-Python_MySQL&cache_seconds=86400&theme=moltack"/>
-</a>
-
 <div> 
 </div>
