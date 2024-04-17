@@ -57,13 +57,13 @@ I am a professional passionate about IT, with solid training in the area and an 
 
 <h3>Projetos em HTML, CSS e Javascript</h3>
 <a href="https://github.com/RhaianySouza/Calculadora">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Calculadora&cache_seconds=86400&theme=moltack"/>
 </a>
 <a href="https://github.com/RhaianySouza/widget">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=widget&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=widget&cache_seconds=86400&theme=moltack"/>
 </a>
 <a href="https://github.com/RhaianySouza/100dayscss.com">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=100dayscss.com&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=100dayscss.com&cache_seconds=86400&theme=moltack"/>
 </a>
 <hr/>
 
