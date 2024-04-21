@@ -76,6 +76,9 @@ I am a professional passionate about IT, with solid training in the area and an 
 <a href="https://github.com/RhaianySouza/Gerenciamento_De_Banco_De_Dados-Python_MySQL">
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Gerenciamento_De_Banco_De_Dados-Python_MySQL&cache_seconds=86400&theme=moltack"/>
 </a>
+<a href="https://https://github.com/RhaianySouza/Programacao-em-Python-Fila-Pilha-e-Lista">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-Python-Fila-Pilha-e-Lista&cache_seconds=86400&theme=moltack"/>
+</a>
 
 <div> 
 </div>
