@@ -43,8 +43,10 @@ I am a professional passionate about IT, with solid training in the area and an 
 <div>
   <a href="https://github.com/RhaianySouza">
     <!--img width="300px" src="https://github-readme-stats.vercel.app/api?username=RhaianySouza&show_icons=true&theme=moltack&include_all_commits=False&count_private=true"/-->
-    <img height="300px"src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhaianySouza&theme=moltack"/>
-    <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&langs_count=16&theme=moltack"/>
+    <img height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhaianySouza&theme=moltack"/>
+    <!--img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&langs_count=16&theme=moltack"/-->
+    <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&layout=pie&theme=moltack"/>
+    <img height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=RhaianySouza&theme=moltack&layout=compact&display_format=percent"/>
   </a>
 </div>
 
