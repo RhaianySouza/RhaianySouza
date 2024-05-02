@@ -53,10 +53,10 @@ I am a professional passionate about IT, with solid training in the area and an 
 <hr/> 
 <h3>Projetos em C</h3>
 <a href="https://github.com/RhaianySouza/Programacao-em-C-Calculador">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-C-Calculadora&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-C-Calculadora&cache_seconds=86400&theme=moltack"/>
 </a>
 <a href="https://github.com/RhaianySouza/Lista-encadeada-em-C">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Lista-encadeada-em-C&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Lista-encadeada-em-C&cache_seconds=86400&theme=moltack"/>
 </a>
 <hr/>
 
@@ -74,15 +74,15 @@ I am a professional passionate about IT, with solid training in the area and an 
 
 <h3>Projetos em Java</h3>
 <a href="https://github.com/RhaianySouza/Sistema-de-Gerenciamento-de-Arquivos-em-JAVA">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Sistema-de-Gerenciamento-de-Arquivos-em-JAVA&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Sistema-de-Gerenciamento-de-Arquivos-em-JAVA&cache_seconds=86400&theme=moltack"/>
 </a>
 
 <h3>Projetos em Python</h3>
 <a href="https://github.com/RhaianySouza/Gerenciamento_De_Banco_De_Dados-Python_MySQL">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Gerenciamento_De_Banco_De_Dados-Python_MySQL&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Gerenciamento_De_Banco_De_Dados-Python_MySQL&cache_seconds=86400&theme=moltack"/>
 </a>
 <a href="https://https://github.com/RhaianySouza/Programacao-em-Python-Fila-Pilha-e-Lista">
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-Python-Fila-Pilha-e-Lista&cache_seconds=86400&theme=moltack"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-Python-Fila-Pilha-e-Lista&cache_seconds=86400&theme=moltack"/>
 </a>
 
 <div> 
