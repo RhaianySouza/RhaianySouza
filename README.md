@@ -55,6 +55,9 @@ I am a professional passionate about IT, with solid training in the area and an 
 <a href="https://github.com/RhaianySouza/Programacao-em-C-Calculador">
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Programacao-em-C-Calculadora&cache_seconds=86400&theme=moltack"/>
 </a>
+<a href="https://github.com/RhaianySouza/Lista-encadeada-em-C">
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=RhaianySouza&repo=Lista-encadeada-em-C&cache_seconds=86400&theme=moltack"/>
+</a>
 <hr/>
 
 <h3>Projetos em HTML, CSS e Javascript</h3>
