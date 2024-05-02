@@ -26,17 +26,17 @@ I am a professional passionate about IT, with solid training in the area and an 
 <a href="https://www.youtube.com/@RhaianySouza"><img src="IMAGE/youtube.png" alt="Rhaiany Cezar de Souza: Youtube"/></a>
 <hr/>
 <h3>Languages & Tools:</h3>
-<a href="https://github.com/RhaianySouza"><img src="IMAGE/html.png" alt=""></a>
-<a href="https://github.com/RhaianySouza"><img src="IMAGE/css.png" alt=""></a>
-<a href="https://github.com/RhaianySouza"><img src="IMAGE/javascript.png" alt=""></a>
+<a href="https://github.com/RhaianySouza?tab=repositories&q=&type=&language=html&sort="><img src="IMAGE/html.png" alt=""></a>
+<a href="https://github.com/RhaianySouza?tab=repositories&q=&type=&language=css&sort="><img src="IMAGE/css.png" alt=""></a>
+<a href="https://github.com/RhaianySouza?tab=repositories&q=&type=&language=javascript&sort="><img src="IMAGE/javascript.png" alt=""></a>
 <a href="https://github.com/RhaianySouza"><img src="IMAGE/react.png" alt=""></a>
 <a href="https://github.com/RhaianySouza"><img src="IMAGE/nodejs.png" alt=""></a>
 <a href="https://github.com/RhaianySouza"><img src="IMAGE/typescript.png" alt=""></a>
-<a href="https://github.com/RhaianySouza"><img src="IMAGE/java.png" alt=""></a>
+<a href="https://github.com/RhaianySouza?tab=repositories&q=&type=&language=java&sort="><img src="IMAGE/java.png" alt=""></a>
 <a href="https://github.com/RhaianySouza"><img src="IMAGE/php.png" alt=""></a>
-<a href="https://github.com/RhaianySouza"><img src="IMAGE/c#.png" alt=""></a>
+<a href="https://github.com/RhaianySouza?tab=repositories&q=&type=&language=c&sort="><img src="IMAGE/c.png" alt=""></a>
 <a href="https://github.com/RhaianySouza"><img src="IMAGE/sql.png" alt=""></a>
-<a href="https://github.com/RhaianySouza"><img src="IMAGE/python.png" alt=""></a>
+<a href="https://github.com/RhaianySouza?tab=repositories&q=&type=&language=python&sort="><img src="IMAGE/python.png" alt=""></a>
 
 <hr/>
 
