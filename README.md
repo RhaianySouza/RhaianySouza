@@ -8,17 +8,44 @@ Here are some ideas to get you started:
 <div>
   <img src="IMAGE/RhaianySouza_Banner.png" alt="banner"/>
 </div>
-
-<p style="border-bottom: solid 3px #3A3035; text-align: justify;">
-I am a professional passionate about IT, with solid training in the area and an eager mindset to learn and grow. I have knowledge in programming, systems analysis and project management acquired during my academic training. I am interested in applying my theoretical knowledge in a practical way, contributing effectively to requested projects and developing skills in the professional environment. My dedication, analytical skills and willingness to face new challenges make me a candidate committed to evolving and thriving in the dynamic field of technology.
-</p><hr/>
+<table>
+  <tr>
+    <td>
+<p style="border-bottom: solid 3px #3A3035; text-align: justify;">Sou uma profissional apaixonada por Tecnologia da Informação, com formação sólida na área e um mindset voltado para aprendizado e crescimento contínuos. Tenho conhecimentos em programação, análise de sistemas e gestão de projetos, adquiridos ao longo da minha formação acadêmica e experiência prática. Atualmente, estou cursando <b>Sistemas de Informação na UniFOA</b> e realizando <b>estágio na CSN, onde atuo com SAP FI, CO e FM</b>, aplicando e aprimorando minhas habilidades no ambiente corporativo.</p>
+<p>Além disso, faço parte do <b>projeto da UFF/CNPq SGIMP (Processo nº 405482/2022-1)</b>, que visa a automatização da gestão de inventário de materiais perigosos em embarcações mercantes, plataformas offshore e navios abandonados destinados ao descomissionamento, desmonte e reciclagem.</p>
+<p>Estou sempre em busca de desafios que me permitam crescer profissionalmente, contribuindo de forma eficaz para os projetos em que estou envolvida. Minha dedicação, pensamento analítico e vontade de enfrentar novos desafios fazem de mim uma profissional comprometida com a evolução no dinâmico mundo da tecnologia.</p>
+    </td>
+    <td>
+<p style="border-bottom: solid 3px #3A3035; text-align: justify;">I am a professional passionate about Information Technology, with solid training in the field and a mindset focused on continuous learning and growth. I have knowledge in programming, systems analysis, and project management, acquired throughout my academic journey and practical experience. Currently, I am pursuing a Bachelor's degree in <b>Information Systems at UniFOA</b> and interning at <b>CSN, where I work with SAP FI, CO, and FM</b>, applying and improving my skills in a corporate environment.
+</p>
+<p style="border-bottom: solid 3px #3A3035; text-align: justify;"> Additionally, I am part of the <b>UFF/CNPq SGIMP project (Process No. 405482/2022-1)</b>, which aims to automate the inventory management of hazardous materials on merchant ships, offshore platforms, and abandoned vessels intended for decommissioning, dismantling, and recycling.
+</p>
+<p style="border-bottom: solid 3px #3A3035; text-align: justify;">I am always looking for challenges that allow me to grow professionally, effectively contributing to the projects I am involved in. My dedication, analytical thinking, and willingness to tackle new challenges make me a committed professional in the dynamic world of technology.
+</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<h3>Sobre mim</h3>
+<p>🔭 Atualmente trabalhando no estágio na CSN, com SAP FI, CO e FM, e no projeto SGIMP.</p>
+<p>🌱 ERP & Business Processes: SAP FI (Financial Accounting), CO (Controlling), FM (Funds Management).</p>
+<p>🌱 Data Science & Automation: Automação de processos e gestão de inventário inteligente (Projeto SGIMP).</p>
+<p>🌱 Aprimorando minhas habilidades em Java, PHP e C#.</p>
+<p>📫 Como me encontrar: <a href="https://www.linkedin.com/in/rhaianysouza">LinkedIn</a></p>
+<p>🌎 Sou de Volta Redonda, RJ - Brasil</p>
+    </td>
+    <td>
 <h3>About me</h3>
-<p>🔭 I’m currently working on <a href="">"Online Calculator</a>.</p>
-<p>🌱 I’m currently learning "Data Science".</p>
+<p>🔭 Currently working on my internship at CSN, focusing on SAP FI, CO, and FM, and the SGIMP project.</p>
+<p>🌱 ERP & Business Processes: SAP FI (Financial Accounting), CO (Controlling), FM (Funds Management).</p>
+<p>🌱 Data Science & Automation: Process automation and smart inventory management (SGIMP Project).</p>
 <p>🌱 I’m currently improving my skills in Java, PHP and C#.</p>
-<p>📫 How to reach me: https://www.linkedin.com/in/rhaianysouza/</p>
+<p>📫 How to reach me: <a href="https://www.linkedin.com/in/rhaianysouza">LinkedIn</a></p>
 <p>🌎 I'm from Volta Redonda, RJ - Brasil</p>
-<hr/>
+    </td>
+  </tr>
+</table>
+
 <h3>Connect with me:</h3>
 <a href="https://github.com/RhaianySouza"><img src="IMAGE/github.png" alt="Rhaiany Cezar de Souza: Git Hub"/></a>
 <a href="https://www.linkedin.com/in/rhaianysouza/"><img src="IMAGE/linkedin.png" alt="Rhaiany Cezar de Souza: Linkedin"/></a>
@@ -46,7 +73,7 @@ I am a professional passionate about IT, with solid training in the area and an 
     <img height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhaianySouza&theme=moltack"/>
     <!--img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&langs_count=16&theme=moltack"/-->
     <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&layout=pie&theme=moltack"/>
-    <img height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=RhaianySouza&theme=moltack&layout=compact&display_format=percent"/>
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=RhaianySouza&theme=moltack&layout=compact&display_format=percent"/>
   </a>
 </div>
 
