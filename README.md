@@ -70,10 +70,11 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/RhaianySouza">
     <!--img width="300px" src="https://github-readme-stats.vercel.app/api?username=RhaianySouza&show_icons=true&theme=moltack&include_all_commits=False&count_private=true"/-->
-    <img height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhaianySouza&theme=moltack"/>
+    <img height="280px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RhaianySouza&theme=moltack"/>
+    <img height="280px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RhaianySouza&theme=moltack"/>
     <!--img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&langs_count=16&theme=moltack"/-->
-    <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&layout=pie&theme=moltack"/>
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=RhaianySouza&theme=moltack&layout=compact&display_format=percent"/>
+    <!--img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhaianySouza&layout=pie&theme=moltack"/-->
+    <img width="954px" height="280px" src="https://github-readme-stats.vercel.app/api/wakatime?username=RhaianySouza&theme=moltack&layout=compact&display_format=percent"/>
   </a>
 </div>
 
