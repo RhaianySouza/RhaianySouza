@@ -1,56 +1,83 @@
-<!--
-**RhaianySouza/RhaianySouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
 <div>
   <img src="IMAGE/RhaianySouza_Banner.png" alt="banner"/>
 </div>
 
-# 👩‍💻 Sobre mim
-Olá! Me chamo **Rhaiany**, sou apaixonada por Tecnologia da Informação e atualmente curso **Sistemas de Informação na UniFOA**. 
-Atuo como estagiária na **CSN (Companhia Siderúrgica Nacional)**, com foco nos módulos **SAP FI (Financial Accounting), CO (Controlling)** e **FM (Funds Management)**, onde aplico conhecimentos de processos empresariais no ambiente corporativo.
-Também participo do projeto **SGIMP (UFF/CNPq – Processo nº 405482/2022-1)**, que visa a **automação da gestão de inventário de materiais perigosos** em embarcações mercantes, plataformas offshore e navios destinados ao desmonte e reciclagem.
+# 👩‍💻 Rhaiany Souza
+
+Desenvolvedora Full Stack com foco em **Sistemas Industriais, Rastreabilidade e Engenharia de Dados Aplicada**.  
+Idealizadora e Desenvolvedora do **SGIMP – Sistema de Gestão de Inventário de Materiais Perigosos**, aplicado ao ciclo de vida e descomissionamento de ativos navais.
+
+Graduada em **Tecnologia em Sistemas de Computação – UFF (2022)**
+
+Graduanda em **Sistemas de Informação – UniFOA**  
+
+Atuação corporativa com SAP FI, CO e FM na CSN (Companhia Siderúrgica Nacional).
 
 ---
 
-## 🚀 Áreas de Interesse
-- ERP & Processos de Negócio (SAP FI, CO, FM)  
-- Automação de Processos e Inventário Inteligente (Projeto SGIMP)  
-- Desenvolvimento Web & Back-End  
-- Ciência de Dados e Visualização  
-- Aprendizado Contínuo e Projetos com Propósito
+## 🚢 Projeto em Destaque
 
----
-## 🛠️ Tecnologias e Ferramentas
-**5+ anos de experiência com:**
-- Python, Java, JavaScript, HTML, CSS, SQL, MySQL, Git/GitHub
-**3+ anos de experiência com:**
-- PHP, Node.js, ReactJS, C/C++, JSON, Bootstrap
-**2+ anos de experiência com:**
-- TypeScript, Sass
-**1+ ano de experiência com:**
-- C#, .NET, R
+### 🔎 SGIMP – Inventário Digital Contínuo com RFID
 
----
+Sistema web para gestão, rastreabilidade e monitoramento de materiais perigosos em:
 
-## 🌱 Atualmente aprendendo
-- Java, PHP e C# (avançando com foco em aplicações corporativas)  
-- Boas práticas de arquitetura de software  
-- Metodologias Ágeis e ITIL  
+- Embarcações mercantes  
+- Plataformas offshore  
+- Navios em processo de desmonte e reciclagem  
 
----
-## 📍 Localização
-Volta Redonda, Rio de Janeiro – Brasil 🇧🇷
+✔ Inventário digital contínuo com RFID  
+✔ Workflows automatizados (validades, inspeções, alertas e prazos regulatórios)  
+✔ Dashboard analítico e relatórios técnicos  
+✔ Gestão documental com evidências fotográficas  
+✔ Suporte à conformidade ambiental e governança técnica  
 
----
-## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/rhaianysouza)  
+Projeto vinculado à UFF / CNPq – Processo nº 405482/2022-1
 
 ---
 
-### ✨ “A tecnologia move o mundo. A curiosidade me move dentro dela.” ✨
+## 🏗️ Atuação Técnica
 
+- Arquitetura e modelagem de banco de dados
+- Desenvolvimento de APIs e back-end
+- Estruturação de workflows automatizados
+- Construção de dashboards analíticos
+- Integração entre processos operacionais e sistemas corporativos (ERP)
+- Levantamento e definição de requisitos técnicos
+- Organização de indicadores e maturidade operacional
 
+---
+
+## 🛠️ Stack Principal
+
+**Back-End**  
+Python • Node.js • Java • C/C++
+
+**Front-End**  
+ReactJS • TypeScript • JavaScript • HTML • CSS • Sass • Bootstrap
+
+**Banco de Dados**  
+MySQL • PostgreSQL • SQL • Modelagem Relacional
+
+**Outros**  
+Git/GitHub • JSON • SAP FI/CO/FM
+
+---
+
+## 📊 Áreas Estratégicas de Interesse
+
+- Inventário Digital Contínuo
+- Rastreabilidade Industrial
+- Engenharia de Dados aplicada a processos industriais
+- Arquitetura de Sistemas
+- ERP & Governança Corporativa
+- Indicadores de Maturidade Operacional
+
+---
+
+📍 Volta Redonda – RJ | Brasil 🇧🇷  
+
+📫 [LinkedIn](https://www.linkedin.com/in/rhaianysouza)
+
+---
+
+> Tecnologia aplicada com propósito, rastreabilidade e impacto real.
