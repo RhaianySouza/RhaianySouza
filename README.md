@@ -1,5 +1,5 @@
 <div>
-  <img src="IMAGE/RhaianySouza_Banner.png" alt="banner" style="display: none"/>
+  <!--img src="IMAGE/RhaianySouza_Banner.png" alt="banner" style="display: none"/-->
 </div>
 
 # 👩‍💻 Rhaiany Souza
